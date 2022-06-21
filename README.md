@@ -1,6 +1,7 @@
 # data_visualization
 
 A study that shows different kinds of plots 
+
 bar![螢幕截圖 2022-06-21 上午11 41 19](https://user-images.githubusercontent.com/107896079/174711591-1f024e58-b2d2-4235-8d91-2068e10ad0c7.png)
 
 plot![螢幕截圖 2022-06-21 上午11 42 49](https://user-images.githubusercontent.com/107896079/174711770-ce5b5c4b-2f20-4746-8e73-e751d66fe034.png)
